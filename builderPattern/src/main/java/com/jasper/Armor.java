@@ -1,8 +1,6 @@
 package com.jasper;
 
 import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.ToString;
 
 /**
  * @author jasper

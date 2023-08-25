@@ -7,8 +7,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="builderPattern" />
         <module name="proxy" />
+        <module name="decorate" />
+        <module name="adapter" />
+        <module name="builderPattern" />
       </profile>
     </annotationProcessing>
   </component>

@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/builderPattern/pom.xml" />
         <option value="$PROJECT_DIR$/proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/adapter/pom.xml" />
+        <option value="$PROJECT_DIR$/decorate/pom.xml" />
       </list>
     </option>
   </component>

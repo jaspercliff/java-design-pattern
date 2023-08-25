@@ -1,6 +1,6 @@
 package com.jasper;
 
-public class client
+public class App
 {
     public static void main( String[] args )
     {

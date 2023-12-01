@@ -5,7 +5,11 @@
     <file url="file://$PROJECT_DIR$/adapter/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/decorate/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/decorate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/observe/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/observe/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/proxy/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/proxy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/strategy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/strategy/src/main/resources" charset="UTF-8" />
   </component>
 </project>

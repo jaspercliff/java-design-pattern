@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/proxy/pom.xml" />
         <option value="$PROJECT_DIR$/adapter/pom.xml" />
         <option value="$PROJECT_DIR$/decorate/pom.xml" />
+        <option value="$PROJECT_DIR$/strategy/pom.xml" />
+        <option value="$PROJECT_DIR$/observe/pom.xml" />
       </list>
     </option>
   </component>
